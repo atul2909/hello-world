@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+       <h1> Om Namo Bhagwate Vasudevah Namah </h1>
     <h1>Register New user for DevOps/SRE/ SecOps Learning</h1>
     <p>Please fill in this form to create an account on ANSIBLE.</p>
     <hr>
@@ -32,6 +33,7 @@
   </div>
 
    <h1> Thank you, Happy Learning Dost </h1>
+   <h1> Done Done Done </h1>
 
   
 </form>
